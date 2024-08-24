@@ -1,4 +1,4 @@
-Run index.js on Server.js
+Run index.js OR Server.js
 
 
 for index.js ==>
